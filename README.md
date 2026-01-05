@@ -42,4 +42,4 @@ Sou desenvolvedor focado na criação de aplicações web e mobile, trabalhando 
 
 📫 Contato  
 - LinkedIn: www.linkedin.com/in/matsunaga-dev  
-- Email: ftakematsu@gmail.com
+- Email: matsunaga@vcxinvestimentos.com
