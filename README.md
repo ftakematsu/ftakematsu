@@ -19,6 +19,12 @@ Sou desenvolvedor focado na criação de aplicações web e mobile, trabalhando 
 
 ---
 
+### 🎓 Formação Acadêmica
+- Graduação e Mestrado em Ciência da Computação  
+  (UEL)
+
+---
+
 ### 🚀 O que você vai encontrar aqui
 - APIs REST desenvolvidas com Laravel
 - Projetos em Flutter
