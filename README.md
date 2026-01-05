@@ -1,45 +1,45 @@
-## 👋 Olá, eu sou o Fabio Matsunaga
+## 👋 Hi, I'm Fabio Matsunaga
 
-💻 Desenvolvedor Full Stack  
+💻 Full Stack Developer  
 📱 Mobile & Web
 
-Sou desenvolvedor focado na criação de aplicações web e mobile, trabalhando principalmente com Flutter no front-end e Laravel no back-end, sempre buscando uma arquitetura escalável, código limpo, organização e boas práticas.
+I'm a developer focused on building **web and mobile applications**, mainly working with **Flutter on the front-end** and **Laravel on the back-end**, always aiming for **scalable architecture**, clean code, organization, and best practices.
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 Technologies & Tools
 - Laravel / PHP
 - Angular (Web)
 - Flutter (Mobile)
-- APIs REST - integração com APIs internas e externas
+- REST APIs – integration with internal and external APIs
 - MySQL
 - Docker
 - Git & GitHub
-- Configurações de servidor da AWS
+- AWS server configuration
 
 ---
 
-### 🎓 Formação Acadêmica
-- Graduação e Mestrado em Ciência da Computação  
+### 🎓 Academic Background
+- Bachelor's and Master's Degree in Computer Science  
   (UEL)
 
 ---
 
-### 🚀 O que você vai encontrar aqui
-- APIs REST desenvolvidas com Laravel
-- Projetos em Flutter
-- Exemplos de arquitetura e organização de código
-- Estudos e experimentos técnicos
+### 🚀 What you'll find here
+- REST APIs built with Laravel
+- Flutter projects
+- Architecture and code organization examples
+- Technical studies and experiments
 
 ---
 
-### 📌 Foco atual
-- Arquitetura de software
-- Performance e boas práticas
-- Integração entre Mobile e APIs
+### 📌 Current focus
+- Software architecture
+- Performance and best practices
+- Mobile and API integration
 
 ---
 
-📫 Contato  
+📫 Contact  
 - LinkedIn: www.linkedin.com/in/matsunaga-dev  
 - Email: matsunaga@vcxinvestimentos.com
